@@ -1,0 +1,11 @@
+<!--index.wxml-->
+<view class="container">
+
+  <view class="page-body">
+    <view class="btn-area">
+      <navigator url="../map/map" hover-class="navigator-hover">
+        <button type="default">加载map组件</button>
+      </navigator>
+    </view>
+  </view>
+</view>
